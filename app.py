@@ -126,35 +126,35 @@ model_info = {
         "icon": "🧮",
         "desc": "Thuật toán học máy truyền thống dựa trên khoảng cách dữ liệu",
         "params": "K = 19 neighbors\nMetric: Minkowski",
-        "accuracy": "78.2%"
+        "accuracy": "74.68%"
     },
     "SVM (Linear)": {
         "color": "#7209B7",
         "icon": "⚡",
         "desc": "Phân lớp bằng siêu phẳng tuyến tính",
         "params": "C = 60\nKernel: Linear",
-        "accuracy": "81.5%"
+        "accuracy": "77.27%"
     },
     "SVM (RBF)": {
         "color": "#F72585",
         "icon": "🌀",
         "desc": "Phân lớp phi tuyến với kernel Gaussian",
         "params": "C = 55\nGamma = 1",
-        "accuracy": "83.1%"
+        "accuracy": "76.62%"
     },
     "Logistic Regression": {
         "color": "#3A0CA3",
         "icon": "📈",
         "desc": "Mô hình thống kê cho phân loại nhị phân",
         "params": "C = 1\nSolver: lbfgs",
-        "accuracy": "79.8%"
+        "accuracy": "75.97%"
     },
     "Deep Learning": {
         "color": "#FF006E",
         "icon": "🧠",
         "desc": "Mạng neural tích chập đa lớp",
-        "params": "4 Hidden layers\nDropout: 0.2",
-        "accuracy": "85.6%"
+        "params": "5 Hidden layers\nDropout: 0.3",
+        "accuracy": "74.68%"
     }
 }
 
